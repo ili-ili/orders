@@ -1,3 +1,4 @@
+yarn-error.log
 node_modules/@framer/unsplash.unsplash/tsconfig.json
 node_modules/@framer/unsplash.unsplash/package.json
 node_modules/@framer/unsplash.unsplash/metadata/icon.png
@@ -133,6 +134,12 @@ node_modules/@framer/framer.examples/code/AlertView.tsx
 node_modules/@framer/framer.examples/code/ActionSheet.tsx
 node_modules/@framer/framer.examples/build/index.js
 node_modules/@framer/framer.examples/README.md
+node_modules/@framer/framer.device-skin-apple-iphone8-plus-space-gray/yarn.lock
+node_modules/@framer/framer.device-skin-apple-iphone8-plus-space-gray/package.json
+node_modules/@framer/framer.device-skin-apple-iphone8-plus-space-gray/index.ts
+node_modules/@framer/framer.device-skin-apple-iphone8-plus-space-gray/device.png
+node_modules/@framer/framer.device-skin-apple-iphone8-plus-space-gray/build/index.js.map
+node_modules/@framer/framer.device-skin-apple-iphone8-plus-space-gray/build/index.js
 node_modules/@framer/edoardo.web-ui-kit/tsconfig.json
 node_modules/@framer/edoardo.web-ui-kit/package.json
 node_modules/@framer/edoardo.web-ui-kit/metadata/icon.png
